@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <div className='flex flex-col h-full w-full gap-y-10 justify-start'>
+      <div className='flex flex-col h-screen w-full gap-y-10 justify-center items-center'>
         <div className='flex flex-row text-5xl font-bold'>
           <p>Welcome to arcgis-react-template</p>
         </div>
