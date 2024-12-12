@@ -1,6 +1,7 @@
 # arcgis-react-template
 
-An ArcGIS React template for quickly configuring a productive development environment. Includes all the tools necessary for building Esri flavoured web applications. 
+An ArcGIS React template for quickly configuring a productive development environment. Includes all the tools necessary for building Esri flavoured web applications. Also includes the necessary imports and configuration for Calcite Design System, ArcGIS JavaScript SDK and TailwindCSS.
+
 
 | Tool                                  | Version  | Description                                |
 |------------------------------------------|----------|--------------------------------------------|
