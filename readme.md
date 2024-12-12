@@ -13,6 +13,11 @@ An ArcGIS React template for quickly configuring a productive development enviro
 | Zustand                                  | 5.0.2    | Simple State Management for React          |
 | TailwindCSS                              | 3.4.16   | Utility CSS Classes                        |
 ----------------------------------------------------------------------------------------------------
+
+### Getting Started
+This repository is a "Template Repository" on Github. To get started, clone this repo or click the "Use as Template" button on Github. 
+
+
 ### Resources
 
 - [Calcite Design System](https://developers.arcgis.com/calcite-design-system)
