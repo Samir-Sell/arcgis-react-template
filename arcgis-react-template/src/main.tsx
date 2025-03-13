@@ -5,8 +5,10 @@ import App from './App.tsx'
 
 //Calcite Imports
 import { setAssetPath } from '@esri/calcite-components/dist/components';
-setAssetPath("https://js.arcgis.com/calcite-components/2.13.0/assets");
+setAssetPath("https://js.arcgis.com/calcite-components/3.0.3/assets");
 import '@esri/calcite-components/dist/calcite/calcite.css';
+import "@esri/calcite-components";
+
 
 //ArcGIS Core SDK
 import "@arcgis/core/assets/esri/themes/light/main.css"
