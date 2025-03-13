@@ -5,13 +5,13 @@ An ArcGIS React template for quickly configuring a productive development enviro
 
 | Tool                                  | Version  | Description                                |
 |------------------------------------------|----------|--------------------------------------------|
-| Vite                                     | 6.0.1    | Build Tool                                 |
-| React                                    | 18.3.1   | Rendering Frontend UI                      |
-| TypeScript                               | 5.6.2    | Type Checking for JavaScript               |
-| @arcgis/core                             | 4.31.6   | The ArcGIS JS SDK Core                     |
-| @esri/calcite-components-react           | 2.13.2   | Web Component Library by Esri              |
-| Zustand                                  | 5.0.2    | Simple State Management for React          |
-| TailwindCSS                              | 3.4.16   | Utility CSS Classes                        |
+| Vite                                     | 6.2.1    | Build Tool                                 |
+| React                                    | 19.0.0   | Rendering Frontend UI                      |
+| TypeScript                               | 5.8.2    | Type Checking for JavaScript               |
+| @arcgis/core                             | 4.32.8   | The ArcGIS JS SDK Core                     |
+| @esri/calcite-components-react           | 3.0.3   | Web Component Library by Esri              |
+| Zustand                                  | 5.0.3    | Simple State Management for React          |
+| TailwindCSS                              | 4.0.14   | Utility CSS Classes                        |
 ----------------------------------------------------------------------------------------------------
 
 ### Getting Started
